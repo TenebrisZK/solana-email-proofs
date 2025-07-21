@@ -2,7 +2,7 @@
 
 Verify email authenticity with zero-knowledge proofs and retrieve the result in Solana
 
-> ⚠️ **In development**  — to see latest updates and information on how to run *Solana email proofs*, check out the `anchor` branch.
+> ⚠️ **Warning**  — Anchor development is currently on hold as it turns out not to be fully supported by Bonsol. In the meantime, a pivot to vanilla Solana was required. The raw Solana codebase for email proofs is not public as of today.
 
 ## Installation
 
